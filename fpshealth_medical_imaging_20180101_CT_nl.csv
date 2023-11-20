@@ -1,0 +1,352 @@
+﻿Toestelnummer;Erkenningsnummer;Campusnummer;Naam exploitant;Gemeente;Provincie;Fabrikant;Model;Ziekenhuizen in associatie
+10001;378;1970;ST.-REMBERTZIEKENHUIS;Torhout;West-Vlaanderen;GE;GE-Optima CT660;Er bestaat geen associatie voor dit toestel
+10002;714;3600;SINT-FRANCISCUSZIEKENHUIS;Heusden-Zolder;Limburg;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10003;397;1990;"O.L.V. VAN LOURDES ZIEKENHUIS
+WAREGEM";Waregem;West-Vlaanderen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10007;247;2770;CENTRE HOSPITALIER DE MOUSCRON;Moeskroen;Henegouwen;Toshiba;TOSHIBA-Aquilion LB;Er bestaat geen associatie voor dit toestel
+10008;49;1010;A.Z. ST. JAN BRUGGE - OOSTENDE;Brugge;West-Vlaanderen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10009;49;1010;A.Z. ST. JAN BRUGGE - OOSTENDE;Brugge;West-Vlaanderen;GE;GE-Revolution CT;Er bestaat geen associatie voor dit toestel
+10010;49;1010;A.Z. ST. JAN BRUGGE - OOSTENDE;Brugge;West-Vlaanderen;Philips;PHILIPS-Brilliance Big Bore;Er bestaat geen associatie voor dit toestel
+10011;49;1930;A.Z. ST. JAN BRUGGE - OOSTENDE;Oostende;West-Vlaanderen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10013;715;3650;ST. TRUDO ZIEKENHUIS;Sint-Truiden;Limburg;Siemens;SIEMENS-SOMATOM Definition Edge;Er bestaat geen associatie voor dit toestel
+10014;403;4190;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10015;403;4190;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10017;403;4190;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10018;403;4190;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;Toshiba;TOSHIBA-Aquilion LB;Er bestaat geen associatie voor dit toestel
+10019;670;3850;UNIVERSITAIR ZIEKENHUIS;Gent;Oost-Vlaanderen;Siemens;SIEMENS-SOMATOM Definition Edge;Er bestaat geen associatie voor dit toestel
+10020;670;3850;UNIVERSITAIR ZIEKENHUIS;Gent;Oost-Vlaanderen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10021;670;3850;UNIVERSITAIR ZIEKENHUIS;Gent;Oost-Vlaanderen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10024;158;2970;CENTRE HOSPITALIER CHRETIEN;Heusy;Luik;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10026;706;3340;CLINIQUE ST.-LUC;Bouge;Namen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10027;706;3340;CLINIQUE ST.-LUC;Bouge;Namen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10028;152;2910;"CENTRE HOSPITALIER CHRETIEN - ST.
+JOSEPH";Luik;Luik;Toshiba;TOSHIBA-Aquilion One Vision;Er bestaat geen associatie voor dit toestel
+10029;152;2910;"CENTRE HOSPITALIER CHRETIEN - ST.
+JOSEPH";Luik;Luik;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10030;152;2910;"CENTRE HOSPITALIER CHRETIEN - ST.
+JOSEPH";Luik;Luik;GE;GE-LightSpeed Pro;Er bestaat geen associatie voor dit toestel
+10031;152;2920;"CENTRE HOSPITALIER CHRETIEN - ST.
+JOSEPH";Saint-Nicolas (Luik);Luik;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10032;152;2930;"CENTRE HOSPITALIER CHRETIEN - ST.
+JOSEPH";Borgworm;Luik;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10034;57;2700;JAN YPERMAN ZIEKENHUIS;Ieper;West-Vlaanderen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10035;57;1120;JAN YPERMAN ZIEKENHUIS;Poperinge;West-Vlaanderen;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10036;134;1830;ST.-VINCENTIUSZIEKENHUIS;Deinze;Oost-Vlaanderen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10037;300;4220;"UNIVERSITAIR ZIEKENHUIS
+ANTWERPEN";Edegem;Antwerpen;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10038;300;4220;"UNIVERSITAIR ZIEKENHUIS
+ANTWERPEN";Edegem;Antwerpen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10039;300;4220;"UNIVERSITAIR ZIEKENHUIS
+ANTWERPEN";Edegem;Antwerpen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10040;111;1400;EUROPAZIEKENHUIZEN V.Z.W.;Ukkel;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10041;111;1420;EUROPAZIEKENHUIZEN V.Z.W.;Etterbeek;Brussel-Hoofdstad;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10042;111;1420;EUROPAZIEKENHUIZEN V.Z.W.;Etterbeek;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10043;689;2040;IMELDA ZIEKENHUIS;Bonheiden;Antwerpen;Siemens;SIEMENS SOMATOM DEFINITION;Er bestaat geen associatie voor dit toestel
+10044;371;3560;ZIEKENHUIS OOST-LIMBURG;Genk;Limburg;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10045;76;1520;"CENTRE HOSPITALIER
+UNIVERSITAIRE ST. PIERRE";Brussel;Brussel-Hoofdstad;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10046;76;1520;"CENTRE HOSPITALIER
+UNIVERSITAIRE ST. PIERRE";Brussel;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10047;76;1500;"CENTRE HOSPITALIER
+UNIVERSITAIRE ST. PIERRE";Brussel;Brussel-Hoofdstad;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10048;534;2830;"CENTRE HOSPITALIER DE WALLONIE
+PICARDE";Doornik;Henegouwen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10049;534;3090;"CENTRE HOSPITALIER DE WALLONIE
+PICARDE";Doornik;Henegouwen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10050;534;2810;"CENTRE HOSPITALIER DE WALLONIE
+PICARDE";Doornik;Henegouwen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10051;534;2830;"CENTRE HOSPITALIER DE WALLONIE
+PICARDE";Doornik;Henegouwen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10052;15;2850;HOSPITAL ST.-NIKOLAUS;Eupen;Luik;GE;GE-Optima CT660;Er bestaat geen associatie voor dit toestel
+10054;23;2860;CLINIQUE ANDRE RENARD;Herstal;Luik;GE;GE-Optima CT660;Er bestaat geen associatie voor dit toestel
+10056;371;3040;ZIEKENHUIS OOST-LIMBURG;Lanaken;Limburg;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10057;371;3560;ZIEKENHUIS OOST-LIMBURG;Genk;Limburg;Mobius;BRAINLAB AIRO;Er bestaat geen associatie voor dit toestel
+10058;102;2080;HEILIG HARTZIEKENHUIS V.Z.W.;Mol;Antwerpen;Toshiba;TOSHIBA-Aquilion Prime;Er bestaat geen associatie voor dit toestel
+10059;110;1310;KLINIEK ST.- JAN;Brussel;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Force;Er bestaat geen associatie voor dit toestel
+10060;110;1310;KLINIEK ST.- JAN;Brussel;Brussel-Hoofdstad;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10061;110;1480;KLINIEK ST.- JAN;Sint-Joost-ten-Node;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10063;104;2110;SINT-JOZEFKLINIEK;Willebroek;Antwerpen;GE;GE-Optima CT540;Er bestaat geen associatie voor dit toestel
+10064;709;2690;ALGEMEEN ZIEKENHUIS ST. DIMPNA;Geel;Antwerpen;TOSHIBA;TOSHIBA-Aquilion 64 CXL;Er bestaat geen associatie voor dit toestel
+10065;709;2690;ALGEMEEN ZIEKENHUIS ST. DIMPNA;Geel;Antwerpen;TOSHIBA;TOSHIBA-Aquilion ONE;Er bestaat geen associatie voor dit toestel
+10066;257;2980;KLINIK ST.-JOSEF;Sankt Vith;Luik;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10067;63;2100;ALGEMEEN ZIEKENHUIS TURNHOUT;Turnhout;Antwerpen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10069;63;1280;ALGEMEEN ZIEKENHUIS TURNHOUT;Turnhout;Antwerpen;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10070;550;1680;A.Z. GLORIEUX;Ronse;Oost-Vlaanderen;GE;GE-Optima CT660;Er bestaat geen associatie voor dit toestel
+10071;308;1250;ALGEMEEN ZIEKENHUIS HERENTALS;Herentals;Antwerpen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10072;395;1170;ST.-ANDRIESZIEKENHUIS;Tielt;West-Vlaanderen;GE;GE-Optima CT660;Er bestaat geen associatie voor dit toestel
+10075;204;1460;"ALGEMEEN ZIEKENHUIS JAN
+PORTAELS";Vilvoorde;Vlaams-Brabant;Toshiba;TOSHIBA-Aquilion ONE;Er bestaat geen associatie voor dit toestel
+10076;536;2090;ALGEMEEN ZIEKENHUIS ST.-JOZEF;Malle;Antwerpen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10077;6;3300;C.H.R. SAMBRE ET MEUSE;Namen;Namen;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10078;6;3300;C.H.R. SAMBRE ET MEUSE;Namen;Namen;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10079;392;1030;ALGEMEEN ZIEKENHUIS ZENO;Knokke-Heist;West-Vlaanderen;Toshiba;TOSHIBA-Aquilion 32;Er bestaat geen associatie voor dit toestel
+10080;392;1040;ALGEMEEN ZIEKENHUIS ZENO;Blankenberge;West-Vlaanderen;Toshiba;TOSHIBA-Alexion Advance;Er bestaat geen associatie voor dit toestel
+10081;314;1270;"ALGEMEEN ZIEKENHUIS HEILIGE
+FAMILIE";Rumst;Antwerpen;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10082;682;1220;A.Z. MONICA;Antwerpen;Antwerpen;Siemens;SIEMENS-SOMATOM Perspective;Er bestaat geen associatie voor dit toestel
+10083;682;1210;A.Z. MONICA;Deurne;Antwerpen;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10084;249;3160;CENTRE DE SANTE DES FAGNES;Chimay;Henegouwen;Toshiba;TOSHIBA-Aquilion 32;Er bestaat geen associatie voor dit toestel
+10085;103;3310;C.H.R. SAMBRE ET MEUSE;Sambreville;Namen;Toshiba;TOSHIBA-Aquilion ONE;Er bestaat geen associatie voor dit toestel
+10086;103;3310;C.H.R. SAMBRE ET MEUSE;Sambreville;Namen;Toshiba;TOSHIBA-Astelion advance;Er bestaat geen associatie voor dit toestel
+10087;79;1510;INSTITUT JULES BORDET;Brussel;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Force;Er bestaat geen associatie voor dit toestel
+10088;79;1510;INSTITUT JULES BORDET;Brussel;Brussel-Hoofdstad;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10089;79;1510;INSTITUT JULES BORDET;Brussel;Brussel-Hoofdstad;Toshiba;TOSHIBA-Aquilion LB;Er bestaat geen associatie voor dit toestel
+10090;310;1980;AZ WEST;Veurne;West-Vlaanderen;GE;GE-Optima CT660;Er bestaat geen associatie voor dit toestel
+10092;716;3670;ALGEMEEN ZIEKENHUIS VESALIUS;Bilzen;Limburg;GE;GE-Optima CT540;Er bestaat geen associatie voor dit toestel
+10093;325;2750;"CENTRE HOSPITALIER
+UNIVERSITAIRE A. VESALE";Montigny-le-Tilleul;Henegouwen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10094;325;2750;"CENTRE HOSPITALIER
+UNIVERSITAIRE A. VESALE";Montigny-le-Tilleul;Henegouwen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10095;718;3130;C.H.U. CHARLEROI;Lodelinsart;Henegouwen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10096;718;3130;C.H.U. CHARLEROI;Lodelinsart;Henegouwen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10097;718;3130;C.H.U. CHARLEROI;Châtelet;Henegouwen;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10098;718;3130;C.H.U. CHARLEROI;Lodelinsart;Henegouwen;Mobius Imaging;Scanner Mobile Airo;Er bestaat geen associatie voor dit toestel
+10099;412;3410;"CENTRE HOSPITALIER REGIONAL DE
+LA CITADELLE";Luik;Luik;Siemens;SIEMENS-SOMATOM Perspective;Er bestaat geen associatie voor dit toestel
+10101;412;3410;"CENTRE HOSPITALIER REGIONAL DE
+LA CITADELLE";Luik;Luik;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10103;37;2321;"ISOSL, CLINIQUES DE SOINS
+SPECIALISES VALDOR - PERI";Luik;Luik;Siemens;SIEMENS-SOMATOM Emotion;ISOSL - VALDOR
+10104;412;3410;"CENTRE HOSPITALIER REGIONAL DE
+LA CITADELLE";Luik;Luik;Siemens;SIEMENS-SOMATOM Perspective;Er bestaat geen associatie voor dit toestel
+10105;412;3430;"CENTRE HOSPITALIER REGIONAL DE
+LA CITADELLE";Herstal;Luik;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10106;719;3615;MARIA ZIEKENHUIS NOORD-LIMBURG;Overpelt;Limburg;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10107;719;3615;MARIA ZIEKENHUIS NOORD-LIMBURG;Overpelt;Limburg;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10108;39;3280;CHU UCL NAMUR;Yvoir;Namen;Philips;PHILIPS-Ingenuity Core;Er bestaat geen associatie voor dit toestel
+10109;39;3280;CHU UCL NAMUR;Yvoir;Namen;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10112;166;3290;CHU UCL NAMUR;Namen;Namen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10113;166;3290;CHU UCL NAMUR;Namen;Namen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10114;166;3290;CHU UCL NAMUR;Namen;Namen;GE;LIGHTSPEED RT16;Er bestaat geen associatie voor dit toestel
+10115;99;1290;GZA- ZIEKENHUIZEN;Wilrijk;Antwerpen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10116;99;1290;GZA- ZIEKENHUIZEN;Wilrijk;Antwerpen;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10117;99;1290;GZA- ZIEKENHUIZEN;Wilrijk;Antwerpen;Toshiba;TOSHIBA-Aquilion LB;Er bestaat geen associatie voor dit toestel
+10118;99;1290;GZA- ZIEKENHUIZEN;Wilrijk;Antwerpen;Philips;PHILIPS-Brilliance Big Bore;Er bestaat geen associatie voor dit toestel
+10119;99;2020;GZA- ZIEKENHUIZEN;Antwerpen;Antwerpen;Toshiba;TOSHIBA-Aquilion Prime;Er bestaat geen associatie voor dit toestel
+10120;99;2030;GZA- ZIEKENHUIZEN;Mortsel;Antwerpen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10122;254;2730;"C.H.U. ET PSYCHIATRIQUE DE
+MONS-BORINAGE";Bergen;Henegouwen;Toshiba;TOSHIBA-Aquilion 64;Er bestaat geen associatie voor dit toestel
+10123;254;2730;"C.H.U. ET PSYCHIATRIQUE DE
+MONS-BORINAGE";Bergen;Henegouwen;Toshiba;TOSHIBA-Aquilion ONE;Er bestaat geen associatie voor dit toestel
+10124;109;1370;"REGIONAAL ZIEKENHUIS HEILIG HART
+TIENEN";Tienen;Vlaams-Brabant;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10125;109;1380;"REGIONAAL ZIEKENHUIS HEILIG HART
+TIENEN";Aarschot;Vlaams-Brabant;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10126;97;1260;HEILIG HART ZIEKENHUIS V.Z.W.;Lier;Antwerpen;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10127;97;1260;HEILIG HART ZIEKENHUIS V.Z.W.;Lier;Antwerpen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10128;117;1950;ALGEMEEN ZIEKENHUIS DELTA;Roeselare;West-Vlaanderen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10129;117;1950;ALGEMEEN ZIEKENHUIS DELTA;Roeselare;West-Vlaanderen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10130;117;1100;ALGEMEEN ZIEKENHUIS DELTA;Roeselare;West-Vlaanderen;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10131;117;1960;ALGEMEEN ZIEKENHUIS DELTA;Roeselare;West-Vlaanderen;GE;GE-Optima CT660;Er bestaat geen associatie voor dit toestel
+10132;12;3460;ALGEMEEN ZIEKENHUIS ST. BLASIUS;Dendermonde;Oost-Vlaanderen;Philips;PHILIPS-MX 16;Er bestaat geen associatie voor dit toestel
+10133;12;3460;ALGEMEEN ZIEKENHUIS ST. BLASIUS;Dendermonde;Oost-Vlaanderen;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10134;126;1780;ONZE LIEVE VROUW ZIEKENHUIS;Aalst;Oost-Vlaanderen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10136;126;1300;ONZE LIEVE VROUW ZIEKENHUIS;Asse;Vlaams-Brabant;Toshiba;TOSHIBA-Aquilion 32;Er bestaat geen associatie voor dit toestel
+10137;126;1780;ONZE LIEVE VROUW ZIEKENHUIS;Aalst;Oost-Vlaanderen;Philips;PHILIPS-Brilliance Big Bore;Er bestaat geen associatie voor dit toestel
+10138;108;1360;REGIONAAL ZIEKENHUIS HEILIG HART;Leuven;Vlaams-Brabant;Toshiba;TOSHIBA-Aquilion ONE;Er bestaat geen associatie voor dit toestel
+10139;176;1800;"ALGEMEEN STEDELIJK ZIEKENHUIS
+A.V.";Aalst;Oost-Vlaanderen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10140;176;1800;"ALGEMEEN STEDELIJK ZIEKENHUIS
+A.V.";Aalst;Oost-Vlaanderen;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10141;176;1810;"ALGEMEEN STEDELIJK ZIEKENHUIS
+A.V.";Wetteren;Oost-Vlaanderen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10142;176;1820;"ALGEMEEN STEDELIJK ZIEKENHUIS
+A.V.";Geraardsbergen;Oost-Vlaanderen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10143;164;3230;VIVALIA - IFAC;Marche-en-Famenne;Luxemburg;Siemens;SIEMENS-SOMATOM DEFINITION 64;Er bestaat geen associatie voor dit toestel
+10144;409;3350;CLINIQUE NOTRE-DAME DE GRACE;Gosselies;Henegouwen;Toshiba;TOSHIBA-Aquilion RXL;Er bestaat geen associatie voor dit toestel
+10145;409;3350;CLINIQUE NOTRE-DAME DE GRACE;Gosselies;Henegouwen;Toshiba;TOSHIBA-Aquilion Prime;Er bestaat geen associatie voor dit toestel
+10146;164;3720;VIVALIA - IFAC;Vielsalm;Luxemburg;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10149;87;1550;"HOPITAUX IRIS SUD - IRIS
+ZIEKENHUIZEN ZUID";Vorst;Brussel-Hoofdstad;Toshiba;TOSHIBA-Aquilion 64 CXL;Er bestaat geen associatie voor dit toestel
+10150;87;1530;"HOPITAUX IRIS SUD - IRIS
+ZIEKENHUIZEN ZUID";Etterbeek;Brussel-Hoofdstad;Toshiba;TOSHIBA-Aquilion S16;Er bestaat geen associatie voor dit toestel
+10151;217;1900;"ALGEMEEN ZIEKENHUIS ST.
+ELISABETH";Zottegem;Oost-Vlaanderen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10152;595;1860;ALGEMEEN ZIEKENHUIS NIKOLAAS;Sint-Niklaas;Oost-Vlaanderen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10153;595;1860;ALGEMEEN ZIEKENHUIS NIKOLAAS;Sint-Niklaas;Oost-Vlaanderen;GE;GE-Optima CT660;Er bestaat geen associatie voor dit toestel
+10154;595;1870;ALGEMEEN ZIEKENHUIS NIKOLAAS;Beveren-Waas;Oost-Vlaanderen;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10156;710;3450;ALGEMEEN ZIEKENHUIS KLINA V.Z.W.;Brasschaat;Antwerpen;GE;GE-Revolution CT;Er bestaat geen associatie voor dit toestel
+10157;712;1320;ALGEMEEN ZIEKENHUIS DIEST;Diest;Vlaams-Brabant;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10159;111;1400;EUROPAZIEKENHUIZEN V.Z.W.;Ukkel;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10160;332;1740;CHIREC - DELTA;Ukkel;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10164;723;1770;"C.H. INTERREGIONAL EDITH CAVELL -
+SARE";Ganshoren;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10165;332;1740;CHIREC - DELTA;Ukkel;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10166;723;1760;"C.H. INTERREGIONAL EDITH CAVELL -
+SARE";Eigenbrakel;Waals-Brabant;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10167;723;1760;"C.H. INTERREGIONAL EDITH CAVELL -
+SARE";Eigenbrakel;Waals-Brabant;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10168;723;1470;"C.H. INTERREGIONAL EDITH CAVELL -
+SARE";Anderlecht;Brussel-Hoofdstad;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10169;243;3590;JESSA ZIEKENHUIS;Hasselt;Limburg;Toshiba;TOSHIBA-Aquilion RXL;Er bestaat geen associatie voor dit toestel
+10170;243;3590;JESSA ZIEKENHUIS;Hasselt;Limburg;Toshiba;TOSHIBA-Aquilion One Vision;Er bestaat geen associatie voor dit toestel
+10171;43;1730;CLINIQUE SAINT PIERRE;"Ottignies-Louvain-la
+-Neuve";Waals-Brabant;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10172;43;1730;CLINIQUE SAINT PIERRE;"Ottignies-Louvain-la
+-Neuve";Waals-Brabant;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10173;12;3480;ALGEMEEN ZIEKENHUIS ST. BLASIUS;Zele;Oost-Vlaanderen;Philips;PHILIPS-MX 16;Er bestaat geen associatie voor dit toestel
+10174;68;2870;"CENTRE HOSPITALIER REGIONAL DE
+HUY";Hoei;Luik;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10175;17;1605;"ALGEMEEN ZIEKENHUIS MARIA
+MIDDELARES";Gent;Oost-Vlaanderen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10176;17;1605;"ALGEMEEN ZIEKENHUIS MARIA
+MIDDELARES";Gent;Oost-Vlaanderen;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10177;17;1850;"ALGEMEEN ZIEKENHUIS MARIA
+MIDDELARES";Gent;Oost-Vlaanderen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10178;264;3260;CHU UCL NAMUR;Dinant;Namen;Toshiba;TOSHIBA-Astelion advance;Er bestaat geen associatie voor dit toestel
+10179;264;3260;CHU UCL NAMUR;Dinant;Namen;Toshiba;TOSHIBA-Aquilion Prime;Er bestaat geen associatie voor dit toestel
+10180;243;3590;JESSA ZIEKENHUIS;Hasselt;Limburg;Philips;PHILIPS-Brilliance Big Bore;Er bestaat geen associatie voor dit toestel
+10181;26;1230;ALGEMEEN ZIEKENHUIS ST. MAARTEN;Mechelen;Antwerpen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10182;26;1240;ALGEMEEN ZIEKENHUIS ST. MAARTEN;Duffel;Antwerpen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10183;26;2070;ALGEMEEN ZIEKENHUIS ST. MAARTEN;Mechelen;Antwerpen;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10184;266;2710;CHR MONS - HAINAUT;Bergen;Henegouwen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10185;266;2710;CHR MONS - HAINAUT;Bergen;Henegouwen;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10186;266;2720;CHR MONS - HAINAUT;Boussu;Henegouwen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10187;10;3100;GRAND HOPITAL DE CHARLEROI;Charleroi;Henegouwen;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10188;10;3100;GRAND HOPITAL DE CHARLEROI;Charleroi;Henegouwen;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10189;10;3170;GRAND HOPITAL DE CHARLEROI;Gilly;Henegouwen;Toshiba;TOSHIBA-Aquilion One Vision;Er bestaat geen associatie voor dit toestel
+10190;10;3170;GRAND HOPITAL DE CHARLEROI;Gilly;Henegouwen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10191;10;3190;GRAND HOPITAL DE CHARLEROI;Montignies-sur-Sambre;Henegouwen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10192;10;3180;GRAND HOPITAL DE CHARLEROI;Gerpinnes;Henegouwen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10194;525;1940;ALGEMEEN ZIEKENHUIS DAMIAAN;Oostende;West-Vlaanderen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10195;525;1940;ALGEMEEN ZIEKENHUIS DAMIAAN;Oostende;West-Vlaanderen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10196;20;3010;"CENTRE HOSPITALIER REGIONAL DE
+VERVIERS";Verviers;Luik;Siemens;SIEMENS-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10197;20;3010;"CENTRE HOSPITALIER REGIONAL DE
+VERVIERS";Verviers;Luik;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10199;707;3860;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Luik;Luik;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10200;707;2840;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Chênée;Luik;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10201;707;3860;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Luik;Luik;Siemens;SIEMENS SOMATON DEFINITION;Er bestaat geen associatie voor dit toestel
+10202;707;3860;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Luik;Luik;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10203;707;3870;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Esneux;Luik;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10204;707;3860;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Luik;Luik;Philips;PHILIPS-Brilliance Big Bore;Er bestaat geen associatie voor dit toestel
+10205;707;2840;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Chênée;Luik;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10206;707;3860;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Luik;Luik;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10207;290;1630;ALGEMEEN ZIEKENHUIS ST. LUCAS;Gent;Oost-Vlaanderen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10208;290;1630;ALGEMEEN ZIEKENHUIS ST. LUCAS;Gent;Oost-Vlaanderen;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10212;265;1650;ALGEMEEN ZIEKENHUIS LOKEREN;Lokeren;Oost-Vlaanderen;Toshiba;TOSHIBA-Aquilion ONE;Er bestaat geen associatie voor dit toestel
+10213;396;1090;ALGEMEEN ZIEKENHUIS GROENINGE;Kortrijk;West-Vlaanderen;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10217;143;4200;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Brussel-Hoofdstad;Philips;BRILLIANCE ICT 256;Er bestaat geen associatie voor dit toestel
+10220;143;4200;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Brussel-Hoofdstad;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10221;143;4200;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Brussel-Hoofdstad;GE;GE-Revolution CT;Er bestaat geen associatie voor dit toestel
+10222;713;1610;ALGEMEEN ZIEKENHUIS JAN PALFIJN;Gent;Oost-Vlaanderen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10223;243;3570;JESSA ZIEKENHUIS;Hasselt;Limburg;GE;GE-Discovery CT750 HD;Er bestaat geen associatie voor dit toestel
+10224;243;3580;JESSA ZIEKENHUIS;Herk-de-Stad;Limburg;GE;GE-LightSpeed Pro;Er bestaat geen associatie voor dit toestel
+10225;146;3200;CENTRES HOSPITALIERS JOLIMONT;La Louvière;Henegouwen;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10226;146;3200;CENTRES HOSPITALIERS JOLIMONT;La Louvière;Henegouwen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10227;146;3200;CENTRES HOSPITALIERS JOLIMONT;La Louvière;Henegouwen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10228;146;3210;CENTRES HOSPITALIERS JOLIMONT;Lobbes;Henegouwen;Siemens;SIEMENS-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10229;9;2000;"ZIEKENHUISNETWERK ANTWERPEN
+VZW";Antwerpen;Antwerpen;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10230;9;1180;"ZIEKENHUISNETWERK ANTWERPEN
+VZW";Antwerpen;Antwerpen;Philips;PHILIPS-Ingenuity Core;Er bestaat geen associatie voor dit toestel
+10231;96;3220;"CENTRE HOSPITALIER
+UNIVERSITAIRE TIVOLI";La Louvière;Henegouwen;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10232;96;3220;"CENTRE HOSPITALIER
+UNIVERSITAIRE TIVOLI";La Louvière;Henegouwen;Toshiba;TOSHIBA-Aquilion One Vision;Er bestaat geen associatie voor dit toestel
+10233;9;2000;"ZIEKENHUISNETWERK ANTWERPEN
+VZW";Antwerpen;Antwerpen;Toshiba;Aquilion One;Er bestaat geen associatie voor dit toestel
+10234;9;1190;"ZIEKENHUISNETWERK ANTWERPEN
+VZW";Borgerhout;Antwerpen;Philips;PHILIPS-Brilliance;Er bestaat geen associatie voor dit toestel
+10235;9;3360;"ZIEKENHUISNETWERK ANTWERPEN
+VZW";Merksem;Antwerpen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10236;406;4210;"CLINIQUES UNIVERSITAIRES DE
+BRUXELLES HOPITAL ERASME";Anderlecht;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10237;406;4210;"CLINIQUES UNIVERSITAIRES DE
+BRUXELLES HOPITAL ERASME";Anderlecht;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10238;406;4210;"CLINIQUES UNIVERSITAIRES DE
+BRUXELLES HOPITAL ERASME";Anderlecht;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Force;Er bestaat geen associatie voor dit toestel
+10240;246;3700;"VIVALIA - CLINIQUE DU
+SUD-LUXEMBOURG";Saint-Mard;Luxemburg;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10241;246;3690;"VIVALIA - CLINIQUE DU
+SUD-LUXEMBOURG";Aarlen;Luxemburg;Siemens;SIEMENS-SOMATOM Perspective;Er bestaat geen associatie voor dit toestel
+10242;246;3690;"VIVALIA - CLINIQUE DU
+SUD-LUXEMBOURG";Aarlen;Luxemburg;Siemens;SIEMENS-SOMATOM Force;Er bestaat geen associatie voor dit toestel
+10243;322;4230;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams-Brabant;Philips;PHILIPS-Ingenuity Core;Er bestaat geen associatie voor dit toestel
+10244;322;4230;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams-Brabant;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10246;322;4270;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Pellenberg;Vlaams-Brabant;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10247;322;4230;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams-Brabant;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10248;322;4230;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams-Brabant;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10249;322;4230;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams-Brabant;Toshiba;TOSHIBA-Aquilion One Vision;Er bestaat geen associatie voor dit toestel
+10250;322;4230;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams-Brabant;Siemens;SIEMENS-SOMATOM Force;Er bestaat geen associatie voor dit toestel
+10251;403;4190;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;Philips;PHILIPS-IQon;Er bestaat geen associatie voor dit toestel
+10252;164;3720;VIVALIA - IFAC;Bastenaken;Luxemburg;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10253;77;1570;CHU BRUGMANN;Laken;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10254;77;1570;CHU BRUGMANN;Laken;Brussel-Hoofdstad;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10255;140;1000;ALGEMEEN ZIEKENHUIS ST. LUCAS;Brugge;West-Vlaanderen;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10256;410;3060;CENTRE HOSPITALIER EPICURA;Baudour;Henegouwen;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10257;410;3380;CENTRE HOSPITALIER EPICURA;Hornu;Henegouwen;GE;GE-LightSpeed Ultra;Er bestaat geen associatie voor dit toestel
+10258;410;3380;CENTRE HOSPITALIER EPICURA;Hornu;Henegouwen;GE;GE-LightSpeed VCT;Er bestaat geen associatie voor dit toestel
+10259;410;3390;CENTRE HOSPITALIER EPICURA;Frameries;Henegouwen;GE;BRIGHTSPEED VELOCITY;Er bestaat geen associatie voor dit toestel
+10260;724;1910;CENTRE HOSPITALIER EPICURA;Aat;Henegouwen;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10261;4;2950;CLINIQUE REINE ASTRID;Malmedy;Luik;GE;GE-Optima CT540;Er bestaat geen associatie voor dit toestel
+10263;412;3410;"CENTRE HOSPITALIER REGIONAL DE
+LA CITADELLE";Luik;Luik;Mobius Imaging;AIRO;Er bestaat geen associatie voor dit toestel
+10264;150;3440;"HOPITAL UNIVERSITAIRE DES
+ENFANTS REINE FABIOLA";Laken;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Sensation;Er bestaat geen associatie voor dit toestel
+10265;170;1660;"ALGEMEEN ZIEKENHUIS
+OUDENAARDE Vzw";Oudenaarde;Oost-Vlaanderen;GE;GE-LightSpeed Pro;Er bestaat geen associatie voor dit toestel
+10266;170;1660;"ALGEMEEN ZIEKENHUIS
+OUDENAARDE Vzw";Oudenaarde;Oost-Vlaanderen;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10267;42;2990;"CENTRE HOSPITALIER DU BOIS DE
+L'ABBAYE";Seraing;Luik;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10268;42;2990;"CENTRE HOSPITALIER DU BOIS DE
+L'ABBAYE";Seraing;Luik;Siemens;SIEMENS-SOMATOM Definition Flash;Er bestaat geen associatie voor dit toestel
+10269;42;3000;"CENTRE HOSPITALIER DU BOIS DE
+L'ABBAYE";Borgworm;Luik;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10270;346;1710;CENTRES HOSPITALIERS JOLIMONT;Nijvel;Waals-Brabant;Siemens;SIEMES-SOMATOM Definition AS 128;Er bestaat geen associatie voor dit toestel
+10271;346;1720;CENTRES HOSPITALIERS JOLIMONT;Tubeke;Waals-Brabant;Siemens;SIEMENS-SOMATOM Emotion;Er bestaat geen associatie voor dit toestel
+10272;77;1570;CHU BRUGMANN;Neder-Over-Heembeek;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10273;106;1340;ALGEMEEN ZIEKENHUIS SINT- MARIA;Halle;Vlaams-Brabant;Siemens;SIEMENS-SOMATOM Definition AS+;Er bestaat geen associatie voor dit toestel
+10274;87;1540;"HOPITAUX IRIS SUD - IRIS
+ZIEKENHUIZEN ZUID";Anderlecht;Brussel-Hoofdstad;GE;GE-Revolution Evo;Er bestaat geen associatie voor dit toestel
+10275;689;2040;IMELDA ZIEKENHUIS;Bonheiden;Antwerpen;Siemens;SIEMENS SOMATOM FORCE;Er bestaat geen associatie voor dit toestel
+10276;322;4230;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams-Brabant;Brainlab;AIRO;Er bestaat geen associatie voor dit toestel
+10277;126;1790;ONZE LIEVE VROUW ZIEKENHUIS;Ninove;Oost-Vlaanderen;Siemens;SIEMENS-SOMATOM Perspective;Er bestaat geen associatie voor dit toestel
+10278;87;1560;"HOPITAUX IRIS SUD - IRIS
+ZIEKENHUIZEN ZUID";Elsene;Brussel-Hoofdstad;GE;REVOLUTION EVO;Er bestaat geen associatie voor dit toestel
+10279;396;1090;ALGEMEEN ZIEKENHUIS GROENINGE;Kortrijk;West-Vlaanderen;GE;GE-Optima CT580W;Er bestaat geen associatie voor dit toestel
+10280;104;2060;SINT-JOZEFKLINIEK;Bornem;Antwerpen;General Electric;GE-Revolution Evo;Er bestaat geen associatie voor dit toestel
+10281;371;3560;ZIEKENHUIS OOST-LIMBURG;Genk;Limburg;Siemens;SIEMENS-SOMATOM Force;Er bestaat geen associatie voor dit toestel
+10282;23;2860;CLINIQUE ANDRE RENARD;Herstal;Luik;Toshiba;TOSHIBA-Aquilion Prime;Er bestaat geen associatie voor dit toestel
+10283;143;4200;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Brussel-Hoofdstad;GE;GE-Revolution CT;Er bestaat geen associatie voor dit toestel
+10284;396;1090;ALGEMEEN ZIEKENHUIS GROENINGE;Kortrijk;West-Vlaanderen;GE;GE-Revolution Evo;Er bestaat geen associatie voor dit toestel
+10285;396;1090;ALGEMEEN ZIEKENHUIS GROENINGE;Kortrijk;West-Vlaanderen;GE;GE-Revolution CT;Er bestaat geen associatie voor dit toestel
+10286;32;1845;ALGEMEEN ZIEKENHUIS ALMA;Eeklo;Oost-Vlaanderen;GE;GE-Revolution CT;Er bestaat geen associatie voor dit toestel
+10287;412;3420;"CENTRE HOSPITALIER REGIONAL DE
+LA CITADELLE";Luik;Luik;Siemens;Somatom Scope Power 32;Er bestaat geen associatie voor dit toestel
+10288;716;3670;ALGEMEEN ZIEKENHUIS VESALIUS;Tongeren;Limburg;GE;GE-Revolution CT;Er bestaat geen associatie voor dit toestel
+10289;7;2790;"CENTRE HOSPITALIER DE LA HAUTE
+SENNE";Zinnik;Henegouwen;"GE
+HEALTHCARE";REVOLUTION DISCOVERY CT;Er bestaat geen associatie voor dit toestel
+10290;168;3240;"VIVALIA - CENTRE HOSPITALIER DE
+L'ARDENNE";Libramont-Chevigny;Luxemburg;Siemens;Somatom Perspective 128;Er bestaat geen associatie voor dit toestel
+10291;247;2770;CENTRE HOSPITALIER DE MOUSCRON;Moeskroen;Henegouwen;Toshiba;TOSHIBA-Aquilion Prime;Er bestaat geen associatie voor dit toestel
+10292;63;1280;ALGEMEEN ZIEKENHUIS TURNHOUT;Turnhout;Antwerpen;GE;GE-Revolution CT;Er bestaat geen associatie voor dit toestel
+10293;406;4210;"CLINIQUES UNIVERSITAIRES DE
+BRUXELLES HOPITAL ERASME";Anderlecht;Brussel-Hoofdstad;Siemens;SIEMENS SOMATOM DEFINITION AS;Er bestaat geen associatie voor dit toestel
+10294;247;2770;CENTRE HOSPITALIER DE MOUSCRON;Moeskroen;Henegouwen;Toshiba;Aquilion Prime 80 (TSX-303A/AC);Er bestaat geen associatie voor dit toestel
+10295;124;1920;ST.-JOZEFSKLINIEK;Izegem;West-Vlaanderen;GE;GE-Revolution Evo;Er bestaat geen associatie voor dit toestel
+10296;168;3240;"VIVALIA - CENTRE HOSPITALIER DE
+L'ARDENNE";Libramont-Chevigny;Luxemburg;"Siemens
+Healthcare
+GmbH";SOMATOM Force;Er bestaat geen associatie voor dit toestel
+10297;412;3410;"CENTRE HOSPITALIER REGIONAL DE
+LA CITADELLE";Luik;Luik;Siemens;SOMATOM GO UP;Er bestaat geen associatie voor dit toestel
+10299;717;6120;ZIEKENHUIS MAAS EN KEMPEN V.Z.W.;Maaseik;Limburg;GE;GE-Revolution Evo;Er bestaat geen associatie voor dit toestel
+10300;77;1590;CHU BRUGMANN;Schaarbeek;Brussel-Hoofdstad;Siemens;Somatom Definition AS128;Er bestaat geen associatie voor dit toestel
+10301;152;2960;"CENTRE HOSPITALIER CHRETIEN - ST.
+JOSEPH";Luik;Luik;GE;BRIGHSPEED EDGE ADVANTAGE;Er bestaat geen associatie voor dit toestel
+10302;158;2940;CENTRE HOSPITALIER CHRETIEN;"Hermalle-sous
+-Argenteau";Luik;GE;GE-Brightspeed Elite;Er bestaat geen associatie voor dit toestel
+10303;332;6140;CHIREC - DELTA;Oudergem;Brussel-Hoofdstad;Siemens;SIEMES-SOMATOM Definition AS;Er bestaat geen associatie voor dit toestel
+10304;332;6140;CHIREC - DELTA;Oudergem;Brussel-Hoofdstad;Siemens;SIEMENS-SOMATOM Force;Er bestaat geen associatie voor dit toestel
+10305;332;6140;CHIREC - DELTA;Oudergem;Brussel-Hoofdstad;Siemens;SOMATOM CONFIDENCE;Er bestaat geen associatie voor dit toestel

@@ -1,0 +1,46 @@
+﻿Toestelnummer;Erkenningsnummer;Campusnummer;Naam exploitant;Gemeente;Provincie;Fabrikant;Model;Type gebruik;Ziekenhuizen in associatie
+30001;403.0;4190.0;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;Philips;Philips-Gemini TF PET/CT;Utilisation clinique et scientifique;Er bestaat geen associatie voor dit toestel
+30002;670.0;3850.0;UNIVERSITAIR ZIEKENHUIS;Gent;Oost-Vlaanderen;Siemens;Siemens-Biograph mCT Flow;Uitsluitend klinisch gebruik;Er bestaat geen associatie voor dit toestel
+30003;152.0;2910.0;"CENTRE HOSPITALIER CHRETIEN - ST.
+JOSEPH";Luik;Luik;Philips;Philips-Gemini TF PET/CT;Utilisation clinique et scientifique;CENTRE HOSPITALIER CHRETIEN.ST.-VINCENT
+30004;9.0;2000.0;"ZIEKENHUISNETWERK ANTWERPEN
+VZW";Antwerpen;Antwerpen;Philips;Philips-Gemini TF PET/CT;Uitsluitend klinisch gebruik;ZNA GZA
+30006;300.0;4220.0;"UNIVERSITAIR ZIEKENHUIS
+ANTWERPEN";Edegem;Antwerpen;Siemens;Siemens-Biograph mCT;Wetenschappelijk en klinisch gebruik;Er bestaat geen associatie voor dit toestel
+30007;707.0;3860.0;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Luik;Luik;Philips;Philips-Gemini TF PET/CT;Utilisation clinique uniquement;Er bestaat geen associatie voor dit toestel
+30008;707.0;3860.0;"CENTRE HOSPITALIER
+UNIVERSITAIRE SART-TILMAN";Luik;Luik;Philips;Philips-Gemini TF Big Bore PET/C;Utilisation clinique et scientifique;Er bestaat geen associatie voor dit toestel
+30010;143.0;4200.0;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Brussel-Hoofdstad;Siemens;Siemens-Biograph mCT 20 Excel;Uitsluitend klinisch gebruik;Er bestaat geen associatie voor dit toestel
+30011;143.0;4200.0;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Brussel-Hoofdstad;Siemens;Siemens-Biograph mCT Flow;Wetenschappelijk en klinisch gebruik;Er bestaat geen associatie voor dit toestel
+30012;111.0;1400.0;EUROPAZIEKENHUIZEN V.Z.W.;Ukkel;Brussel-Hoofdstad;Philips;Philips-Gemini TF Big Bore PET/C;Utilisation clinique uniquement;CHIREC, ST. JEAN
+30013;6.0;3300.0;C.H.R. SAMBRE ET MEUSE;Namen;Namen;Siemens;Siemens-Biograph mCT;Utilisation clinique uniquement;CHR VAL DE SAMBRE
+30016;;;VZW LPC;Hasselt;Limburg;Philips;Philips-Gemini TF Big Bore PET/C;Uitsluitend klinisch gebruik;"VZW JESSA, ZIEKENHUIS OOST-LIMBURG AV, AZ VESALIUS AV,VZW MARIAZIEKENHUIS NOORD-LIMBURG,VZW ZIEKENHUIS
+MAAS EN KEMPEN,VZW REGIONAAL ZIEKENHUIS SINT-TRUDO, VZW SINT-FRANCISKUSZIEKENHUIS, UNIVERSITAIRE
+ZIEKENHUIZEN K.U. LEUVEN"
+30017;322.0;4230.0;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams-Brabant;Siemens;Siemens-Biograph TruePoint;Wetenschappelijk en klinisch gebruik;Er bestaat geen associatie voor dit toestel
+30018;322.0;4230.0;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams-Brabant;Siemens;BIOGRAPH 16;Wetenschappelijk en klinisch gebruik;Er bestaat geen associatie voor dit toestel
+30019;39.0;3280.0;CHU UCL NAMUR;Yvoir;Namen;Philips;Philips-Gemini TF PET/CT;Utilisation clinique et scientifique;CLINIQUE ET MATERNITE SAINTE-ELISABETH
+30020;;;"ASSOCIATION INTERHOSPITALIERE
+DE LA REGION DE CHARLEROI ASBL";Gilly;Henegouwen;GE;GE-Discovery PET/CT 690;Utilisation clinique uniquement;CHU DE CHARLEROI, CHU ANDRE VESALE.GRAND HOPITAL DE CHARLEROI.CLINIQUE NOTRE-DAME DE GRACE
+30021;79.0;1510.0;INSTITUT JULES BORDET;Brussel;Brussel-Hoofdstad;GE;GE-Discovery PET/CT 690;Utilisation clinique uniquement;CHU BRUGMANN-CHU ST PIERRE-HOPITAUX IRIS SUD
+30022;146.0;3200.0;CENTRES HOSPITALIERS JOLIMONT;La Louvière;Henegouwen;GE;GE-Discovery PET/CT 710;Utilisation clinique uniquement;"CENTRES HOSPITALIERS JOLIMONT, CHU TIVOLI LA LOUVIERE, CHR MONS-HAINAUT, EPICURA, CHR HAUTE SENNE 
+SOIGNIES"
+30023;403.0;4190.0;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;Philips;Philips-Gemini TF PET/CT;Utilisation clinique et scientifique;Er bestaat geen associatie voor dit toestel
+30024;110.0;1310.0;KLINIEK ST.- JAN;Brussel;Brussel-Hoofdstad;GE;GE-Discovery IQ;Uitsluitend klinisch gebruik;CLINIQUE DE L EUROPE, CHIREC
+30025;396.0;1090.0;ALGEMEEN ZIEKENHUIS GROENINGE;Kortrijk;West-Vlaanderen;GE;GE-Discovery PET/CT 690 Elite;Uitsluitend klinisch gebruik;ALGEMEEN ZIEKENHUIS ST.-JAN BRUGGE-OOSTENDE, ALGEMEEN ZIEKENHUIS DELTA
+30026;406.0;4210.0;"CLINIQUES UNIVERSITAIRES DE
+BRUXELLES HOPITAL ERASME";Anderlecht;Brussel-Hoofdstad;Philips;Gemini tf64 T;Utilisation clinique et scientifique;Er bestaat geen associatie voor dit toestel
+30027;49.0;1010.0;A.Z. ST. JAN BRUGGE - OOSTENDE;Brugge;West-Vlaanderen;GE;GE DISCOVERY MI;Uitsluitend klinisch gebruik;A.Z. GROENINGE VZW, KORTRIJK.A.Z. DELTA VZW, ROESELAERE
+30028;;;VZW LPC;Genk;Limburg;Siemens;Biograph Horizon;Uitsluitend klinisch gebruik;"VZW JESSA, ZIEKENHUIS OOST-LIMBURG AV,  AZ VESALIUS AV, VZW MARIAZIEKENHUIS NOORD-LIMBURG, VZW ZIEKENHUIS
+MAAS EN KEMPEN, VZW REGIONAAL ZIEKENHUIS SINT-TRUDO, VZW SINT-FRANCISKUSZIEKENHUIS, UNIVERSITAIRE
+ZIEKENHUIZEN K.U. LEUVEN"
+30029;670.0;3850.0;UNIVERSITAIR ZIEKENHUIS;Gent;Oost-Vlaanderen;"GE MEDICAL
+SYSTEMS";DISCOVERY MI;Wetenschappelijk en klinisch gebruik;Er bestaat geen associatie voor dit toestel
+30030;689.0;2040.0;IMELDA ZIEKENHUIS;Bonheiden;Antwerpen;Siemens;BIOGRAPH MCT 40 FLOW;Uitsluitend klinisch gebruik;"IMELDA ZIEKENHUIS.AZ ST-MAARTEN.HEILIG HART ZIEKENHUIS LIER.AZ DIEST.RZ HEILIG HART TIENEN.RZ HEILIG HART
+LEUVEN.AZ JAN PORTAELS"
+30031;534.0;2830.0;"CENTRE HOSPITALIER DE WALLONIE
+PICARDE";Doornik;Henegouwen;GE;DISCOVERY MI;Utilisation clinique uniquement;CHM, EPICURA
+30032;406.0;4210.0;"CLINIQUES UNIVERSITAIRES DE
+BRUXELLES HOPITAL ERASME";Anderlecht;Brussel-Hoofdstad;Philips;Philips-Vereos PET/CT;Utilisation clinique et scientifique;Er bestaat geen associatie voor dit toestel
+30033;332.0;6140.0;CHIREC - DELTA;Oudergem;Brussel-Hoofdstad;GE;DISCOVERY MI;Utilisation clinique uniquement;CLINIQUE DE L EUROPE, ST. JEAN

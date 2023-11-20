@@ -1,0 +1,33 @@
+﻿Numéro d'appareil;Numéro d'agrément;Numéro de campus;Nom de l'exploitant;Commune;Province;Fabricant;Modèle;Type d'utilisation;Hopitaux en association
+30002;670.0;3850.0;UNIVERSITAIR ZIEKENHUIS;Gand;Flandre Orientale;Siemens;Siemens-Biograph mCT Flow;Utilisation clinique uniquement;
+30003;152.0;2910.0;CENTRE HOSPITALIER CHRETIEN - ST. JOSEPH;Liège;Liège;Philips;Philips-Gemini TF PET/CT;Utilisation clinique et scientifique;CENTRE HOSPITALIER CHRETIEN ST-VINCENT
+30007;707.0;3860.0;CENTRE HOSPITALIER UNIVERSITAIRE SART-TILMAN;Liège;Liège;Philips;Philips-Gemini TF PET/CT;Utilisation clinique uniquement;
+30008;707.0;3860.0;CENTRE HOSPITALIER UNIVERSITAIRE SART-TILMAN;Liège;Liège;Philips;Philips-Gemini TF Big Bore PET/CT;Utilisation clinique et scientifique;
+30010;143.0;4200.0;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Bruxelles-Capitale;Siemens;Siemens-Biograph mCT 20 Excel;Utilisation clinique uniquement;
+30011;143.0;4200.0;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Bruxelles-Capitale;Siemens;Siemens-Biograph mCT Flow;Utilisation clinique et scientifique;
+30012;111.0;1400.0;EUROPAZIEKENHUIZEN V.Z.W.;Uccle;Bruxelles-Capitale;Philips;Philips-Gemini TF Big Bore PET/CT;Utilisation clinique uniquement;CHIREC, ST JEAN
+30013;6.0;3300.0;CENTRE HOSPITALIER REGIONAL DE NAMUR;Namur;Namur;Siemens;Siemens-Biograph mCT;Utilisation clinique uniquement;CHR VAL DE SAMBRE
+30017;322.0;4230.0;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Brabant Flamand;Siemens;Siemens-Biograph TruePoint;Utilisation clinique et scientifique;
+30019;39.0;3280.0;CHU UCL NAMUR;Yvoir;Namur;Philips;Philips-Gemini TF PET/CT;Utilisation clinique et scientifique;CLINIQUE ET MATERNITE SAINTE-ELISABETH
+30020;;;ASSOCIATION INTERHOSPITALIERE DE LA REGION DE CHARLEROI ASBL;Gilly;Hainaut;GE;GE-Discovery PET/CT 690;Utilisation clinique uniquement;CHU DE CHARLEROI, CHU ANDRE VESALE, GRAND HOPITAL DE CHARLEROI, CLINIQUE NOTRE-DAME DE GRACE
+30021;79.0;1510.0;INSTITUT JULES BORDET;Bruxelles;Bruxelles-Capitale;GE;GE-Discovery PET/CT 690;Utilisation clinique uniquement;CHU BRUGMANN, CHU ST PIERRE, HOPITAUX IRIS SUD
+30022;146.0;3200.0;CENTRES HOSPITALIERS JOLIMONT;La Louviere;Hainaut;GE;GE-Discovery PET/CT 710;Utilisation clinique uniquement;CENTRES HOSPITALIERS JOLIMONT, CHU TIVOLI LA LOUVIERE, CHR MONS-HAINAUT, EPICURA, CHR HAUTE SENNE
+30024;110.0;1310.0;KLINIEK ST.- JAN;Bruxelles;Bruxelles-Capitale;GE;GE-Discovery IQ;Utilisation clinique uniquement;CLINIQUE DE L EUROPE, CHIREC
+30025;396.0;1090.0;ALGEMEEN ZIEKENHUIS GROENINGE;Kortrijk;Flandre Occidentale;GE;GE-Discovery PET/CT 690 Elite;Utilisation clinique uniquement;ALGEMEEN ZIEKENHUIS ST.-JAN, ALGEMEEN ZIEKENHUIS DELTA
+30026;406.0;4210.0;CLINIQUES UNIVERSITAIRES DE BRUXELLES HOPITAL ERASME;Anderlecht;Bruxelles-Capitale;Philips;Gemini tf64 T;Utilisation clinique et scientifique;
+30027;49.0;1010.0;A.Z. ST. JAN BRUGGE - OOSTENDE;Bruges;Flandre Occidentale;GE;GE DISCOVERY MI;Utilisation clinique uniquement;A.Z. GROENINGE VZW, A.Z. DELTA VZW
+30028;;;VZW LPC;Genk;Limbourg;Siemens;Biograph Horizon;Utilisation clinique uniquement;VZW JESSA, ZIEKENHUIS OOST-LIMBURG AV, AZ VESALIUS AV, VZW MARIAZIEKENHUIS NOORD-LIMBURG, VZW ZIEKENHUIS MAAS EN KEMPEN, VZW REGIONAAL ZIEKENHUIS SINT-TRUDO, VZW SINT-FRANCISKUSZIEKENHUIS, UNIVERSITAIRE ZIEKENHUIZEN K.U. LEUVEN
+30029;670.0;3850.0;UNIVERSITAIR ZIEKENHUIS;Gand;Flandre Orientale;GE MEDICAL SYSTEMS;DISCOVERY MI ;Utilisation clinique et scientifique;
+30030;689.0;2040.0;IMELDA ZIEKENHUIS;Bonheiden;Anvers;Siemens;BIOGRAPH MCT 40 FLOW;Utilisation clinique uniquement;IMELDA ZIEKENHUIS, AZ ST-MAARTEN, HEILIG HART ZIEKENHUIS LIER, AZ DIEST, RZ HEILIG HART TIENEN, RZ HEILIG HART LEUVEN, AZ JAN PORTAELS
+30031;534.0;2830.0;CENTRE HOSPITALIER DE WALLONIE PICARDE;Tournai;Hainaut;GE;DISCOVERY MI;Utilisation clinique uniquement;CHM - EPICURA
+30032;406.0;4210.0;CLINIQUES UNIVERSITAIRES DE BRUXELLES HOPITAL ERASME;Anderlecht;Bruxelles-Capitale;Philips;Philips-Vereos PET/CT;Utilisation clinique et scientifique;
+30033;332.0;6140.0;CHIREC - DELTA;Auderghem;Bruxelles-Capitale;GE;DISCOVERY MI;Utilisation clinique uniquement;
+30034;;;PET-CT ASSOCIATIE MARIE-CURIE;Gand;Flandre Orientale;Siemens;Siemens-Biograph mCT Flow;Utilisation clinique et scientifique;AZ ALMA EEKL, AZ JAN PALFIJN GENT, SV ZIEKENHUIS DEINZE
+30035;126.0;1780.0;ONZE LIEVE VROUW ZIEKENHUIS;Alost;Flandre Orientale;Siemens;Siemens-Biograph mCT Flow;Utilisation clinique uniquement;ASSOCIATIE ZUID OOST VLAANDEREN
+30036;403.0;4190.0;CLINIQUES UNIVERSITAIRES ST.-LUC;Woluwe-Saint-Lambert;Bruxelles-Capitale;Philips;Philips-Vereos PET/CT;Utilisation clinique et scientifique;
+30037;322.0;4230.0;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Brabant Flamand;GE;DISCOVERY MI;Utilisation clinique et scientifique;
+30038;9.0;3360.0;ZIEKENHUISNETWERK ANTWERPEN VZW;Anvers;Anvers;Philips;Philips-Vereos PET/CT;Utilisation clinique uniquement;GZA, UZA, MONICA, KLINA, MALLE, BORNEM, RUMST
+30039;;;VZW LPC;Hasselt;Limbourg;Philips;Philips-Vereos PET/CT;Utilisation clinique uniquement;VZW JESSA, ZIEKENHUIS OOST LIMBURG AV, AZ VESALIUS AV, VZW MARIAZIEKENHUIS NOORD-LIMBURG, VZW ZIEKENHUIS MAAS EN KEMPEN, VZW REGIONAAL ZIEKENHUIS SINT-TRUDO, VZW SINT-FRANCISKUSZIEKENHUIS, UNIVERSITAIRE ZIEKENHUIZEN K.U LEUVEN
+30040;300.0;4220.0;UNIVERSITAIR ZIEKENHUIS ANTWERPEN;Edegem;Anvers;GE;DISCOVERY MI;Utilisation clinique et scientifique;
+30041;403.0;4190.0;CLINIQUES UNIVERSITAIRES ST.-LUC;Woluwe-Saint-Lambert;Bruxelles-Capitale;Philips;Philips-Gemini TF PET/CT;Utilisation clinique et scientifique;
+30042;99.0;1290.0;GZA- ZIEKENHUIZEN;Anvers;Anvers;Philips;Philips-Vereos PET/CT;Utilisation clinique uniquement;UZA, ZNA, AZ MONICA, AZ KLINA, AZ ST JOZEF MALLE, SINT JOZEFKLINIEK BORNEM, AZ HEILIGE FAMILIE RUMST

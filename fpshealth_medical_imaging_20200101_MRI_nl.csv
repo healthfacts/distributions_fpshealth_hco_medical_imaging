@@ -1,0 +1,122 @@
+﻿Toestelnummer;Erkenningsnummer;Campusnummer;Naam exploitant;Gemeente;Provincie;Fabrikant;Model;Type gebruik;Ziekenhuizen in associatie
+60001;536.0;2090.0;ALGEMEEN ZIEKENHUIS ST.-JOZEF;Malle;Antwerpen;Siemens;SIEMENS MAGNETOM AERA 1,5T;Uitsluitend klinisch gebruik;
+60002;247.0;2770.0;CENTRE HOSPITALIER DE MOUSCRON;Moeskroen;Henegouwen;Siemens;MAGNETOM AERA 1.5T;Uitsluitend klinisch gebruik;
+60004;49.0;1010.0;A.Z. ST. JAN BRUGGE - OOSTENDE;Brugge;West-Vlaanderen;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60005;715.0;3650.0;ST. TRUDO ZIEKENHUIS;Sint-Truiden;Limburg;Siemens;SIEMENS MAGNETOM AVANTO FIT;Uitsluitend klinisch gebruik;
+60006;403.0;4190.0;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;Siemens;SIEMENS-MAGNETOM Skyra 3T;Uitsluitend klinisch gebruik;
+60007;403.0;4190.0;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;GE;GE-Optima 450W;Uitsluitend klinisch gebruik;
+60008;403.0;4190.0;CLINIQUES UNIVERSITAIRES ST.-LUC;Sint-Lambrechts-Woluwe;Brussel-Hoofdstad;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60010;670.0;3850.0;UNIVERSITAIR ZIEKENHUIS;Gent;Oost-Vlaanderen;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60014;158.0;2970.0;CENTRE HOSPITALIER CHRETIEN;Heusy;Luik;Philips;PHILIPS-Achieva 1.5T SE;Uitsluitend klinisch gebruik;
+60016;152.0;2910.0;CENTRE HOSPITALIER CHRETIEN - ST. JOSEPH;Luik;Luik;Philips;PHILIPS-Achieva 3.0T TX;Uitsluitend klinisch gebruik;
+60017;152.0;2910.0;CENTRE HOSPITALIER CHRETIEN - ST. JOSEPH;Luik;Luik;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60020;300.0;4220.0;UNIVERSITAIR ZIEKENHUIS ANTWERPEN;Edegem;Antwerpen;Siemens;SIEMENS-MAGNETOM Skyra 3T;Uitsluitend klinisch gebruik;
+60021;300.0;4220.0;UNIVERSITAIR ZIEKENHUIS ANTWERPEN;Edegem;Antwerpen;Siemens;SIEMENS-MAGNETOM AERA TIM, 1,5T;Uitsluitend klinisch gebruik;
+60022;300.0;4220.0;UNIVERSITAIR ZIEKENHUIS ANTWERPEN;Edegem;Antwerpen;Siemens;SIEMENS-MAGNETOM Prisma 3T;Uitsluitend klinisch gebruik;
+60023;111.0;1400.0;EUROPAZIEKENHUIZEN V.Z.W.;Ukkel;Brussel-Hoofdstad;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60024;689.0;2040.0;IMELDA ZIEKENHUIS;Bonheiden;Antwerpen;Siemens;SIEMENS MAGNETOM AERA;Uitsluitend klinisch gebruik;
+60026;534.0;2830.0;CENTRE HOSPITALIER DE WALLONIE PICARDE;Doornik;Henegouwen;Siemens;SIEMENS MAGNETOM AERA;Uitsluitend klinisch gebruik;
+60030;110.0;1310.0;KLINIEK ST.- JAN;Brussel;Brussel-Hoofdstad;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60031;709.0;2690.0;ALGEMEEN ZIEKENHUIS ST. DIMPNA;Geel;Antwerpen;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;HEILIG HART ZIEKENHUIS MOL
+60032;371.0;3560.0;ZIEKENHUIS OOST-LIMBURG;Genk;Limburg;Siemens;MAGNETOM AERA;Uitsluitend klinisch gebruik;
+60036;257.0;2980.0;KLINIK ST.-JOSEF;Sankt Vith;Luik;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60039;204.0;1460.0;ALGEMEEN ZIEKENHUIS JAN PORTAELS;Vilvoorde;Vlaams Brabant;Siemens;SIEMENS MAGNETOM AREA 1,5T;Uitsluitend klinisch gebruik;
+60040;6.0;3300.0;CENTRE HOSPITALIER REGIONAL DE NAMUR;Namen;Namen;Philips;PHILIPS-Achieva 3.0T XR TX;Uitsluitend klinisch gebruik;
+60043;682.0;1210.0;A.Z. MONICA;Antwerpen;Antwerpen;Siemens;SIEMENS-MAGNETOM Amira 1,5T;Uitsluitend klinisch gebruik;AZ MONICA CAMPUS ANTWERPEN
+60044;79.0;1510.0;INSTITUT JULES BORDET;Brussel;Brussel-Hoofdstad;Siemens;SIEMENS-MAGNETOM Verio 3T;Uitsluitend klinisch gebruik;
+60045;264.0;3260.0;CHU UCL NAMUR - SITE DE DINANT;Chimay;Henegouwen;Philips;PHILIPS-Achieva 1.5T A-serie;Uitsluitend klinisch gebruik;CHR VAL DE SAMBRE, CENTRE DE SANTE DES FAGNES
+60046;79.0;1510.0;INSTITUT JULES BORDET;Brussel;Brussel-Hoofdstad;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60047;310.0;1980.0;AZ WEST;Veurne;West-Vlaanderen;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;SINT-REMBERT ZIEKENHUIS TORHOUT
+60048;325.0;2750.0;CENTRE HOSPITALIER UNIVERSITAIRE A. VESALE;Montigny-Le-Tilleul;Henegouwen;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60049;718.0;3130.0;C.H.U. CHARLEROI;Charleroi;Henegouwen;Siemens;SIEMENS-MAGNETOM Skyra 3T;Uitsluitend klinisch gebruik;
+60051;412.0;3410.0;CENTRE HOSPITALIER REGIONAL DE LA CITADELLE;Luik;Luik;Philips;PHILIPS-INTERA 1.5T Explorer;Uitsluitend klinisch gebruik;
+60052;412.0;3410.0;CENTRE HOSPITALIER REGIONAL DE LA CITADELLE;Luik;Luik;Philips;PHILIPS-Achieva 1.5T A-serie;Uitsluitend klinisch gebruik;
+60053;719.0;3615.0;MARIA ZIEKENHUIS NOORD-LIMBURG;Overpelt;Limburg;Philips;PHILIPS-Achieva 1.5T A-serie;Uitsluitend klinisch gebruik;
+60057;99.0;1290.0;GZA- ZIEKENHUIZEN;Antwerpen;Antwerpen;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60059;99.0;2020.0;GZA- ZIEKENHUIZEN;Antwerpen;Antwerpen;Philips;PHILIPS-Ingenia 1.5T;Uitsluitend klinisch gebruik;
+60061;716.0;3670.0;ALGEMEEN ZIEKENHUIS VESALIUS;Tongeren;Limburg;Siemens;AERA;Uitsluitend klinisch gebruik;
+60062;109.0;1370.0;REGIONAAL ZIEKENHUIS HEILIG HART TIENEN;Tienen;Vlaams Brabant;SIEMENS ;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60063;97.0;1260.0;HEILIG HART ZIEKENHUIS V.Z.W.;Lier;Antwerpen;Siemens;MAGNETON AERA 1,5T;Uitsluitend klinisch gebruik;
+60064;117.0;1950.0;ALGEMEEN ZIEKENHUIS DELTA;Roulers;West-Vlaanderen;Siemens;SIEMENS-MAGNETOM Skyra 3T;Uitsluitend klinisch gebruik;
+60065;117.0;1950.0;ALGEMEEN ZIEKENHUIS DELTA;Roulers;West-Vlaanderen;Philips;PHILIPS-Achieva 1.5T A-serie;Uitsluitend klinisch gebruik;
+60066;117.0;1100.0;ALGEMEEN ZIEKENHUIS DELTA;Roulers;West-Vlaanderen;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60067;126.0;1780.0;ONZE LIEVE VROUW ZIEKENHUIS;Aalst;Oost-Vlaanderen;GE;GE-Echospeed HDx 1.5T;Uitsluitend klinisch gebruik;AZ GLORIEUX RONSE
+60068;126.0;1780.0;ONZE LIEVE VROUW ZIEKENHUIS;Aalst;Oost-Vlaanderen;GE;GE-TwinSpeed HDx 3.0T;Uitsluitend klinisch gebruik;AZ GLORIEUX RONSE
+60069;176.0;1800.0;A.S.Z. - AUTONOME VERZORGINGSINSTELLING;Aalst;Oost-Vlaanderen;GE;GE-Discovery MR750 GEM 3.0T;Uitsluitend klinisch gebruik;
+60070;164.0;3230.0;VIVALIA - IFAC;Marche-En-Famenne;Luxemburg;Siemens;SIEMENS-MAGNETOM SYMPHONY TIM;Uitsluitend klinisch gebruik;
+60071;87.0;1560.0;HOPITAUX IRIS SUD - IRIS ZIEKENHUIZEN ZUID;Elsene;Brussel-Hoofdstad;Philips;PHILIPS-ACHIEVA 3T XR TX;Uitsluitend klinisch gebruik;
+60074;217.0;1900.0;ALGEMEEN ZIEKENHUIS ST. ELISABETH;Zottegem;Oost-Vlaanderen;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60075;710.0;3450.0;ALGEMEEN ZIEKENHUIS KLINA V.Z.W.;Brasschaat;Antwerpen;GE;GE-Optima 450W;Uitsluitend klinisch gebruik;
+60076;712.0;1320.0;ALGEMEEN ZIEKENHUIS DIEST;Diest;Vlaams Brabant;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;REGIONAAL ZIEKENHUIS HEILIG HART LEUVEN
+60077;595.0;1860.0;ALGEMEEN ZIEKENHUIS NIKOLAAS;Sint-Niklaas;Oost-Vlaanderen;Siemens;SIEMENS-MAGNETOM Skyra 3T;Uitsluitend klinisch gebruik;
+60078;108.0;1360.0;REGIONAAL ZIEKENHUIS HEILIG HART;Leuven;Vlaams Brabant;Philips;PHILIPS-Ingenia 1.5T;Uitsluitend klinisch gebruik;AZ DIEST
+60084;723.0;1470.0;C.H. INTERREGIONAL EDITH CAVELL - SARE;Anderlecht;Brussel-Hoofdstad;Siemens;AERA;Uitsluitend klinisch gebruik;
+60087;243.0;3570.0;JESSA ZIEKENHUIS;Hasselt;Limburg;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60088;43.0;1730.0;CLINIQUE SAINT PIERRE;Ottignies-Louvain-La-Neuve;Waals Brabant;Siemens;SIEMENS-AVANTO_FIT;Uitsluitend klinisch gebruik;
+60090;68.0;2870.0;CENTRE HOSPITALIER REGIONAL DE HUY;Hoei;Luik;Siemens; AERA;Uitsluitend klinisch gebruik;
+60093;266.0;2720.0;CHR MONS - HAINAUT;Boussu;Henegouwen;GE;GE-Echospeed HDx 1.5T;Uitsluitend klinisch gebruik;CHAMBORD
+60094;525.0;1940.0;ALGEMEEN ZIEKENHUIS DAMIAAN;Oostende;West-Vlaanderen;Siemens;MAGNETRON AERA 1.5 TESLA;Uitsluitend klinisch gebruik;
+60097;707.0;2840.0;CENTRE HOSPITALIER UNIVERSITAIRE SART-TILMAN;Chênée;Luik;Siemens;AERA 1,5T;Uitsluitend klinisch gebruik;
+60098;707.0;3860.0;CENTRE HOSPITALIER UNIVERSITAIRE SART-TILMAN;Luik;Luik;Siemens;AERA 1,5T;Uitsluitend klinisch gebruik;
+60101;396.0;1090.0;ALGEMEEN ZIEKENHUIS GROENINGE;Kortrijk;West-Vlaanderen;GE;GE-DISCOVERY 750W GEM 3.0T;Uitsluitend klinisch gebruik;
+60102;396.0;1090.0;ALGEMEEN ZIEKENHUIS GROENINGE;Kortrijk;West-Vlaanderen;GE;GE-DISCOVERY 750W GEM 3.0T;Uitsluitend klinisch gebruik;
+60105;290.0;1630.0;ALGEMEEN ZIEKENHUIS ST. LUCAS;Gent;Oost-Vlaanderen;Philips;PHILIPS-Achieva 3.0T TX;Uitsluitend klinisch gebruik;
+60106;290.0;1630.0;ALGEMEEN ZIEKENHUIS ST. LUCAS;Gent;Oost-Vlaanderen;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60107;10.0;3100.0;GRAND HOPITAL DE CHARLEROI;Charleroi;Henegouwen;Siemens;SIEMENS- MAGNETOM SYMPHONY 1,5T;Uitsluitend klinisch gebruik;CLINIQUE NOTRE-DAME DE GRACE
+60108;10.0;3100.0;GRAND HOPITAL DE CHARLEROI;Charleroi;Henegouwen;Siemens;SIEMENS-MAGNETOM Verio 3T;Uitsluitend klinisch gebruik;CLINIQUE NOTRE-DAME DE GRACE
+60109;10.0;3170.0;GRAND HOPITAL DE CHARLEROI;Gilly;Henegouwen;Philips;PHILIPS-Ingenia 1.5T;Uitsluitend klinisch gebruik;
+60114;9.0;1180.0;ZIEKENHUISNETWERK ANTWERPEN VZW;Antwerpen;Antwerpen;GE;GE-Signa Explorer 1.5T;Uitsluitend klinisch gebruik;
+60115;96.0;3220.0;CENTRE HOSPITALIER UNIVERSITAIRE TIVOLI;La Louviere;Henegouwen;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60117;9.0;2000.0;ZIEKENHUISNETWERK ANTWERPEN VZW;Antwerpen;Antwerpen;GE;GE-Signa Explorer 1.5T;Uitsluitend klinisch gebruik;
+60119;406.0;4210.0;CLINIQUES UNIVERSITAIRES DE BRUXELLES HOPITAL ERASME;Anderlecht;Brussel-Hoofdstad;Philips;PHILIPS-Achieva 3.0T TX;Uitsluitend klinisch gebruik;
+60121;406.0;4210.0;CLINIQUES UNIVERSITAIRES DE BRUXELLES HOPITAL ERASME;Anderlecht;Brussel-Hoofdstad;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60123;246.0;3690.0;VIVALIA - CLINIQUE DU SUD-LUXEMBOURG;Aarlen;Luxemburg;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60125;322.0;4230.0;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams Brabant;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60126;322.0;4230.0;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams Brabant;Siemens;SIEMENS MAGNETOM AERA 1,5T;Uitsluitend klinisch gebruik;
+60130;143.0;4200.0;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Brussel-Hoofdstad;Siemens;SIEMENS-MAGNETOM Skyra 3T;Uitsluitend klinisch gebruik;
+60131;143.0;4200.0;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Brussel-Hoofdstad;Philips;PHILIPS-Intera 1.5T Master ;Uitsluitend klinisch gebruik;
+60132;143.0;4200.0;UNIVERSITAIR ZIEKENHUIS BRUSSEL;Jette;Brussel-Hoofdstad;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60136;714.0;3600.0;SINT-FRANCISCUSZIEKENHUIS;Heusden-Zolder;Limburg;Siemens;SIEMENS AERA 1,5 T;Uitsluitend klinisch gebruik;
+60138;140.0;1000.0;ALGEMEEN ZIEKENHUIS ST. LUCAS;Brugge;West-Vlaanderen;GE;GE-Optima 450W;Uitsluitend klinisch gebruik;
+60139;410.0;3380.0;CENTRE HOSPITALIER EPICURA;Boussu;Henegouwen;Siemens;SIEMENS AERA 1.5 T;Uitsluitend klinisch gebruik;
+60140;724.0;1910.0;CENTRE HOSPITALIER EPICURA;Aat;Henegouwen;Siemens;SIEMENS AERA 1.5 T;Uitsluitend klinisch gebruik;
+60142;106.0;1340.0;ALGEMEEN ZIEKENHUIS SINT- MARIA;Halle;Vlaams Brabant;Siemens;SIEMENS AERA 1,5 T;Uitsluitend klinisch gebruik;
+60143;550.0;1680.0;A.Z. GLORIEUX;Ronse;Oost-Vlaanderen;GE;GE-Signa Pioneer 3.0T;Uitsluitend klinisch gebruik;
+60144;150.0;3440.0;HOPITAL UNIVERSITAIRE DES ENFANTS REINE FABIOLA;Brussel;Brussel-Hoofdstad;Siemens;MAGNETON AREA 1.5T;Uitsluitend klinisch gebruik;CHU BRUGMANN
+60145;395.0;1170.0;ST.-ANDRIESZIEKENHUIS;Tielt;West-Vlaanderen;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;AZ DELTA ROESELARE, SINT-JOZEFSKLINIEK IZEGEM
+60146;42.0;2990.0;CENTRE HOSPITALIER BOIS DE L'ABBAYE;Seraing;Luik;Siemens;MAGNETOM SYMPHONY A TIM SYSTEM;Uitsluitend klinisch gebruik;
+60147;670.0;3850.0;UNIVERSITAIR ZIEKENHUIS;Gent;Oost-Vlaanderen;Siemens;AERA;Uitsluitend klinisch gebruik;
+60150;706.0;3340.0;CLINIQUE ST.-LUC;Namen;Namen;GE;GE-Optima 450W;Uitsluitend klinisch gebruik;
+60151;;;VZW HETU;Herentals;Antwerpen;Siemens;SIEMENS AVANTO FIT;Uitsluitend klinisch gebruik;AZ ST. ELISABETH HERENTALS VZW, AZ TURNHOUT VZW
+60152;;;VZW HETU;Turnhout;Antwerpen;Siemens;AERA;Uitsluitend klinisch gebruik;AZ HERENTALS, AZ TURNHOUT
+60153;76.0;1520.0;CENTRE HOSPITALIER UNIVERSITAIRE ST. PIERRE;Brussel;Brussel-Hoofdstad;GE;GE-DISCOVERY MR 450W GEM 1,5T 32CH;Uitsluitend klinisch gebruik;
+60154;371.0;3560.0;ZIEKENHUIS OOST-LIMBURG;Genk;Limburg;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60155;32.0;1845.0;ALGEMEEN ZIEKENHUIS ALMA;Eeklo;Oost-Vlaanderen;Siemens;AERA;Uitsluitend klinisch gebruik;
+60157;713.0;1610.0;ALGEMEEN ZIEKENHUIS JAN PALFIJN;Gent;Oost-Vlaanderen;Siemens Healthcare GmbH;SIEMENS-MAGNETOM Avanto Fit;Uitsluitend klinisch gebruik;
+60158;406.0;4210.0;CLINIQUES UNIVERSITAIRES DE BRUXELLES HOPITAL ERASME;Anderlecht;Brussel-Hoofdstad;Siemens;SIEMENS MAGNETOM AERA 1.5T;Uitsluitend klinisch gebruik;
+60159;17.0;1605.0;ALGEMEEN ZIEKENHUIS MARIA MIDDELARES;Gent;Oost-Vlaanderen;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60160;99.0;1290.0;GZA- ZIEKENHUIZEN;Antwerpen;Antwerpen;Siemens;SIEMENS-MAGNETOM Skyra 3T;Uitsluitend klinisch gebruik;
+60162;168.0;3240.0;VIVALIA - CENTRE HOSPITALIER DE L'ARDENNE;Libramont-Chevigny;Luxemburg;Siemens Healthcare GmbH;MAGNETOM AERA;Uitsluitend klinisch gebruik;
+60163;534.0;2810.0;CENTRE HOSPITALIER DE WALLONIE PICARDE;Doornik;Henegouwen;Siemens Healthcare GmbH;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60164;723.0;1760.0;C.H. INTERREGIONAL EDITH CAVELL - SARE;Eigenbrakel;Waals Brabant;Siemens;MAGNETOM AERA;Uitsluitend klinisch gebruik;
+60165;12.0;3460.0;ALGEMEEN ZIEKENHUIS ST. BLASIUS;Dendermonde;Oost-Vlaanderen;Philips;PHILIPS-Ingenia 3T;Uitsluitend klinisch gebruik;
+60166;146.0;3200.0;CENTRES HOSPITALIERS JOLIMONT;La Louviere;Henegouwen;Siemens;Skyra Fit;Uitsluitend klinisch gebruik;
+60167;9.0;2000.0;ZIEKENHUISNETWERK ANTWERPEN VZW;Antwerpen;Antwerpen;GE;SIGNA ARTIST;Uitsluitend klinisch gebruik;
+60168;20.0;3010.0;CENTRE HOSPITALIER REGIONAL DE VERVIERS;Verviers;Luik;Siemens;SIEMENS MAGNETOM AERA;Uitsluitend klinisch gebruik;
+60169;670.0;3850.0;UNIVERSITAIR ZIEKENHUIS;Gent;Oost-Vlaanderen;Siemens;Prisma Fit;Uitsluitend klinisch gebruik;
+60170;332.0;6140.0;CHIREC - DELTA;Oudergem;Brussel-Hoofdstad;Siemens;AERA;Uitsluitend klinisch gebruik;
+60171;254.0;2730.0;C.H.U. AMBROISE PARE;Mons;Henegouwen;Philips;PHILIPS-Ingenia 1.5T;Uitsluitend klinisch gebruik;
+60172;392.0;6160.0;ALGEMEEN ZIEKENHUIS ZENO;Knokke-Heist;West-Vlaanderen;GE;SIGNA PIONEER EXPERT;Uitsluitend klinisch gebruik;AZ SINT JAN BRUGGE OOSTENDE
+60173;146.0;3200.0;CENTRES HOSPITALIERS JOLIMONT;La Louviere;Henegouwen;Siemens;MAGNETOM  AERA;Uitsluitend klinisch gebruik;
+60174;322.0;4230.0;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams Brabant;Philips;PHILIPS-Ingenia 1.5T;Uitsluitend klinisch gebruik;
+60175;57.0;2700.0;JAN YPERMAN ZIEKENHUIS;Ieper;West-Vlaanderen;Siemens;MAGNETOM SOLA;Uitsluitend klinisch gebruik;
+60176;322.0;4230.0;UNIVERSITAIRE ZIEKENHUIZEN K.U.L.;Leuven;Vlaams Brabant;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60178;39.0;3280.0;CHU UCL NAMUR;Yvoir;Namen;Siemens;MAGNETOM AERA;Uitsluitend klinisch gebruik;
+60179;26.0;6170.0;ALGEMEEN ZIEKENHUIS ST. MAARTEN;Mechelen;Antwerpen;Siemens;SIEMENS - MAGNETOM AERA 1,5T;Uitsluitend klinisch gebruik;
+60181;707.0;3860.0;CENTRE HOSPITALIER UNIVERSITAIRE SART-TILMAN;Luik;Luik;Siemens;SIEMENS-MAGNETOM-VIDA 3T;Uitsluitend klinisch gebruik;
+60183;166.0;3290.0;CHU UCL NAMUR - CLINIQUE STE. ELISABETH;Namen;Namen;Siemens;MAGNETOM AERA;Uitsluitend klinisch gebruik;
+60184;77.0;1570.0;CHU BRUGMANN;Brussel;Brussel-Hoofdstad;Siemens;SIEMENS-MAGNETOM Avanto 1,5T;Uitsluitend klinisch gebruik;
+60186;104.0;1270.0;AZ RIVIERENLAND;Rumst;Antwerpen;Philips;PHILIPS-Ingenia 3.0T;Uitsluitend klinisch gebruik;
+60187;49.0;1010.0;A.Z. ST. JAN BRUGGE - OOSTENDE;Brugge;West-Vlaanderen;Philips;Ingenia Elition X 3T;Uitsluitend klinisch gebruik;
+60188;243.0;3590.0;JESSA ZIEKENHUIS;Hasselt;Limburg;Philips;Ingenia Elition X 3T;Uitsluitend klinisch gebruik;
+60189;243.0;3590.0;JESSA ZIEKENHUIS;Hasselt;Limburg;Philips;AMBITION X 1,5T;Uitsluitend klinisch gebruik;

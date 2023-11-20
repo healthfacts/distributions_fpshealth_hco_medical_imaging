@@ -1,0 +1,34 @@
+﻿MID-ID;Toestelnummer;Erkenningsnummer;Campusnummer;Naam exploitant;Gemeente;Provincie / Brussels Hoofdstedelijk Gewest ;Fabrikant;Model;Type gebruik;Ziekenhuizen in associatie
+MID-000290;30002;670;3850;UNIVERSITAIR ZIEKENHUIS - UZ GENT;Gent;Oost-Vlaanderen;Siemens;Siemens-Biograph mCT Flow;Uitsluitend klinisch gebruik;
+MID-000293;30010;143;4200;UNIVERSITAIR ZIEKENHUIS BRUSSEL - U.Z. BRUSSEL;Jette;Brussels Hoofdstedelijk Gewest;Siemens;Siemens-Biograph mCT 20 Excel;Uitsluitend klinisch gebruik;
+MID-000294;30011;143;4200;UNIVERSITAIR ZIEKENHUIS BRUSSEL - U.Z. BRUSSEL;Jette;Brussels Hoofdstedelijk Gewest;Siemens;Siemens-Biograph mCT Flow;Wetenschappelijk en klinisch gebruik;
+MID-000295;30012;111;1400;EUROPAZIEKENHUIZEN V.Z.W. - ST. ELISABETH;Ukkel;Brussels Hoofdstedelijk Gewest;Philips;Philips-Gemini TF Big Bore PET/CT;Uitsluitend klinisch gebruik;CHIREC/ST. JEAN
+MID-000296;30013;6;3300;CHR SAMBRE ET MEUSE (SITE MEUSE) - CHRSM - SITE MEUSE;Namen;Namen;Siemens;Siemens-Biograph mCT;Uitsluitend klinisch gebruik;CHR VAL DE SAMBRE
+MID-000297;30017;322;4230;UZ LEUVEN - GASTHUISBERG;Leuven;Vlaams Brabant;Siemens;Siemens-Biograph TruePoint;Wetenschappelijk en klinisch gebruik;
+MID-000298;30019;39;3280;CHU-UCL NAMUR - SITE GODINNE - GODINNE;Yvoir;Namen;Philips;Philips-Gemini TF PET/CT;Wetenschappelijk en klinisch gebruik;CLINIQUE ET MATERNITE SAINTE-ELISABETH
+MID-000301;30024;110;1310;KLINIEK ST.- JAN - KRUIDTUIN;Brussel;Brussels Hoofdstedelijk Gewest;GE;GE-Discovery IQ;Uitsluitend klinisch gebruik;CLINIQUE DE L EUROPE- CHIREC
+MID-000302;30025;396;1090;AZ GROENINGE - KENNEDYLAAN;Kortrijk;West-Vlaanderen;GE;GE-Discovery PET/CT 690 Elite;Uitsluitend klinisch gebruik;ALGEMEEN ZIEKENHUIS ST.-JAN BRUGGE-OOSTENDE ALGEMEEN ZIEKENHUIS DELTA
+MID-000303;30026;406;4210;CLINIQUES UNIVERSITAIRES DE BRUXELLES HOPITAL ERASME - ERASME;Anderlecht;Brussels Hoofdstedelijk Gewest;Philips;Gemini tf64 T;Wetenschappelijk en klinisch gebruik;
+MID-000304;30027;49;1010;AZ SINT-JAN BRUGGE - OOSTENDE - AZ SINT-JAN BRUGGE;Brugge;West-Vlaanderen;GE;GE-Discovery MI;Uitsluitend klinisch gebruik;A.Z. GROENINGE VZW, KORTRIJK.A.Z. DELTA VZW, ROESELAERE
+MID-000305;30028;371;3560;ZIEKENHUIS OOST-LIMBURG - SINT-JAN GENK;Genk;Limburg;Siemens;Biograph Horizon;Uitsluitend klinisch gebruik;VZW JESSA.ZIEKENHUIS OOST-LIMBURG AV.AZ VESALIUS AV.VZW MARIAZIEKENHUIS NOORD-LIMBURG.VZW ZIEKENHUIS MAAS EN KEMPEN.VZW REGIONAAL ZIEKENHUIS SINT-TRUDO.VZW SINT-FRANCISKUSZIEKENHUIS.UNIVERSITAIRE ZIEKENHUIZEN K.U. LEUVEN
+MID-000306;30029;670;3850;UNIVERSITAIR ZIEKENHUIS - UZ GENT;Gent;Oost-Vlaanderen;GE;GE-Discovery MI;Wetenschappelijk en klinisch gebruik;
+MID-000307;30030;689;2040;IMELDA ZIEKENHUIS - IMELDA;Bonheiden;Antwerpen;Siemens;BIOGRAPH MCT 40 FLOW;Uitsluitend klinisch gebruik;IMELDA ZIEKENHUIS.AZ ST-MAARTEN.HEILIG HART ZIEKENHUIS LIER.AZ DIEST.RZ HEILIG HART TIENEN.RZ HEILIG HART LEUVEN.AZ JAN PORTAELS
+MID-000308;30031;534;2830;CENTRE HOSPITALIER DE WALLONIE PICARDE - UNION TOURNAI;Doornik;Henegouwen;GE;GE-Discovery MI;Uitsluitend klinisch gebruik;CHM - EPICURA
+MID-000309;30032;406;4210;CLINIQUES UNIVERSITAIRES DE BRUXELLES HOPITAL ERASME - ERASME;Anderlecht;Brussels Hoofdstedelijk Gewest;Philips;Philips-Vereos PET/CT;Wetenschappelijk en klinisch gebruik;
+MID-000310;30033;332;6140;CHIREC - DELTA - DELTA;Oudergem;Brussels Hoofdstedelijk Gewest;GE;GE-Discovery MI;Uitsluitend klinisch gebruik;
+MID-000311;30034;290;1630;AZ SINT-LUCAS - SINT-LUCAS;Gent;Oost-Vlaanderen;Siemens;Biograph mCT Flow 40;Wetenschappelijk en klinisch gebruik;"AZ ALMA EEKLO; AZ JAN PALFIJN GENT; SV ZIEKENHUIS DEINZE"
+MID-000312;30035;126;1780;ONZE-LIEVE-VROUW ZIEKENHUIS - OLV ZIEKENHUIS AALST;Aalst;Oost-Vlaanderen;Siemens;Biograph mCT 40 Flow;Uitsluitend klinisch gebruik;ASSOCIATIE ZUID OOST VLAANDEREN
+MID-000313;30036;403;4190;CLINIQUES UNIVERSITAIRES ST.-LUC - ST. LUC BRUXELLES;Sint-Lambrechts-Woluwe;Brussels Hoofdstedelijk Gewest;Philips;Philips-Vereos PET/CT;Wetenschappelijk en klinisch gebruik;
+MID-000314;30037;322;4230;UZ LEUVEN - GASTHUISBERG;Leuven;Vlaams Brabant;GE;GE-Discovery MI;Wetenschappelijk en klinisch gebruik;
+MID-000315;30038;9;3360;ZIEKENHUISNETWERK ANTWERPEN (ZNA) - ZNA JAN PALFIJN;Antwerpen;Antwerpen;Philips;Philips-Vereos PET/CT;Uitsluitend klinisch gebruik;GZA UZA MONICA KLINA MALLE BORNEM RUMST
+MID-000316;30039;243;3590;JESSA ZIEKENHUIS - VIRGA JESSE;Hasselt;Limburg;Philips;Philips-Vereos PET/CT;Uitsluitend klinisch gebruik;VZW JESSA.ZIEKENHUIS OOST LIMBURG AV.AZ VESALIUS AV.VZW MARIAZIEKENHUIS NOORD-LIMBURG.VZW ZIEKENHUIS MAAS EN KEMPEN.VZW REGIONAAL ZIEKENHUIS SINT-TRUDO.VZW SINT-FRANCISKUSZIEKENHUIS.UNIVERSITAIRE ZIEKENHUIZEN K.U.L.
+MID-000317;30040;300;4220;UNIVERSITAIR ZIEKENHUIS ANTWERPEN - UZA;Edegem;Antwerpen;GE;GE-Discovery MI;Wetenschappelijk en klinisch gebruik;
+MID-000318;30041;403;4190;CLINIQUES UNIVERSITAIRES ST.-LUC - ST. LUC BRUXELLES;Sint-Lambrechts-Woluwe;Brussels Hoofdstedelijk Gewest;Philips;Philips-Gemini TF PET/CT;Wetenschappelijk en klinisch gebruik;
+MID-000319;30042;99;1290;GZA- ZIEKENHUIZEN - GZA - SINT-AUGUSTINUS;Antwerpen;Antwerpen;Philips;Philips-Vereos PET/CT;Uitsluitend klinisch gebruik;UZA.ZNA AZ MONICA.AZ KLINA.AZ ST JOZEF MALLE.SINT JOZEFKLINIEK BORNEM.AZ HEILIGE FAMILIE RUMST
+MID-000320;30043;300;4220;UNIVERSITAIR ZIEKENHUIS ANTWERPEN - UZA;Edegem;Antwerpen;GE;GE-Discovery MI;Wetenschappelijk en klinisch gebruik;
+MID-000321;30044;146;3200;POLE HOSPITALIER JOLIMONT - SITE JOLIMONT - LOBBES - HOPITAL DE JOLIMONT;La Louvière;Henegouwen;GE;GE-Discovery MI;Uitsluitend klinisch gebruik;
+MID-000322;30045;152;6200;GROUPE SANTE CHC - SITE MONTLEGIA LIEGE ET WAREMME - CLINIQUE CHC MONTLEGIA;Luik;Luik;GE;GE-Discovery MI;Uitsluitend klinisch gebruik;CHR DE LA CITADELLE
+MID-000654;30046;10;3100;GRAND HOPITAL DE CHARLEROI - NOTRE-DAME;Charleroi;Henegouwen;GE;GE-Discovery MI;Uitsluitend klinisch gebruik;CHU DE CHARLEROI.CLINIQUE NOTRE DAME DE GRACE.GRAND HOPITAL CHARLEROI
+MID-000655;30047;79;6220;JULES BORDET INSTITUT - NEW BORDET;Anderlecht;Brussels Hoofdstedelijk Gewest;GE;GE-Discovery MI;Wetenschappelijk en klinisch gebruik;
+MID-000657;30049;707;3860;CENTRE HOSPITALIER UNIVERSITAIRE SART-TILMAN - SART-TILMAN;Luik;Luik;Siemens;Siemens-Biograph Vision 600;Uitsluitend klinisch gebruik;
+MID-000658;30050;707;3860;CENTRE HOSPITALIER UNIVERSITAIRE SART-TILMAN - SART-TILMAN;Luik;Luik;Siemens;Siemens-Biograph Vision 600;Wetenschappelijk en klinisch gebruik;
